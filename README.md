@@ -1,5 +1,5 @@
 I am a data Analyst who is passionate about turning data into information and solving problems. I underwent training & graduated from Data lead Africa, this exposed me to building personal projects and afforded me the opportunity to work effectively within teams .My technical skills are;
-Data mining and data collection, using the Kobo toolbox to generate primary data and cleaning and coding of data sets with statistical tools such as Excel, SPSS, and R programming language.
+Data mining and data collection, using  Kobo toolbox to generate primary data.Cleaning ,coding and analyzing of datasets with statistical tools such as Excel, SPSS, and R programming language.
 
 Database management, using SQL to query the system.
 
