@@ -10,4 +10,4 @@
 
 👯 I am also open to collaboration with other data Professionals to help improve my skills.
 
-📬 You can reach me at ;temii576@gmail.com
+📬 You can reach me at;temii576@gmail.com
