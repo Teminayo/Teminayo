@@ -12,4 +12,4 @@
 
 👯 I am also open to collaboration with other data Professionals to help improve my skills.
 
-📬 You can reach me at;teminayoo@gmail.com
+📫 You can  reach me teminayoo@gmail.com
