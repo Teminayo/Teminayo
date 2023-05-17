@@ -4,7 +4,7 @@
 
 💻 I underwent training & graduated from Data lead Africa, this exposed me to building personal projects and afforded me the opportunity to work effectively within teams.
 
-👀 I am currently  searching for a role as a data analyst.
+👀 I am currently Interested in Data Analysis and Data Sciences.
 
 🌱 My technical skills are;Data mining and data collection, using  Kobo toolbox to generate primary data.Cleaning ,coding and analyzing of datasets with statistical tools such as Excel, SPSS, R and  using SQL to query database.
 
