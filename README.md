@@ -1,4 +1,4 @@
-🖐️ Hi,My name is Ibinayo Blessing Temilade aka Teminayo
+🖐️ Hi,My name is Ibinayo.B.T aka Teminayo
 
 📈 I am a data Analyst who is passionate about turning data into information and solving problems.
 
