@@ -10,6 +10,8 @@
 
 🌆 Data visualization using Excel and Power Bi.
 
+👩‍💻 I am learning currently learning Tableau.
+
 👯 I am also open to collaboration with other data Professionals to help improve my skills.
 
 📫 You can  reach me teminayoo@gmail.com
