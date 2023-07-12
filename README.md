@@ -8,7 +8,7 @@
 
 🌆 Data visualization using Excel and Power Bi.
 
-👩‍💻 I am learning currently learning Tableau.
+👩‍💻 I am learning currently learning Tableau and Python.
 
 👯 I am also open to collaboration with other data Professionals to help improve my skills.
 
