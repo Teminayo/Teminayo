@@ -6,9 +6,9 @@
 
 🌱 My technical skills are;Data mining and data collection, using  Kobo toolbox to generate primary data.Cleaning,coding, and analyzing of datasets with statistical tools such as Excel, SPSS, R and using SQL to query database.
 
-🌆 Data visualization using Excel and Power Bi.
+🌆 Data visualization using Excel,Tableau and Power Bi.
 
-👩‍💻 I am learning currently learning Tableau and Python.
+👩‍💻 I am learning currently learning  Python.
 
 👯 I am also open to collaboration with other data Professionals to help improve my skills.
 
