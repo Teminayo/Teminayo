@@ -1,7 +1,3 @@
-Here’s a refined version of your GitHub profile README:
-
----
-
 # 🖐️ Hi, I'm Ibinayo B.T. (Teminayo)
 
 📈 **Data Analyst | Problem Solver**
