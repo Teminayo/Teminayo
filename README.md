@@ -1,15 +1,32 @@
-🖐️ Hi,My name is Ibinayo.B.T aka Teminayo
 
-📈 I am a data Analyst who is passionate about turning data into information and solving problems.
 
-👀 I am currently Interested in Data Analysis and Data Sciences.
+# Hi, I'm Ibinayo B.T. (Teminayo) 👋
 
-🌱 My technical skills are;Data mining and data collection, using  Kobo toolbox to generate primary data.Cleaning,coding, and analyzing of datasets with statistical tools such as Excel, SPSS, R and using SQL to query database.
+📈 Data Analyst | Data Scientist 
 
-🌆 Data visualization using Excel,Tableau and Power Bi.
+I am passionate about transforming data into actionable insights and solving complex problems with data. Currently, I am focusing on Data Analysis and Data Science.
 
-👩‍💻 I am learning currently learning  Python.
+## 🌟 Technical Skills
 
-👯 I am also open to collaboration with other data Professionals to help improve my skills.
+Data Collection & Mining: Experienced in using tools like Kobo Toolbox to generate primary data.
+Data Cleaning & Coding: Proficient in cleaning, coding, and analyzing datasets with statistical tools such as Excel, SPSS, Python, and R.
+Database Querying: Skilled in using SQL to query databases efficiently.
+Data Visualization: Adept at visualizing data using Excel, Tableau, and Power BI.
 
-📫 You can  reach me teminayoo@gmail.com
+## 🌱 Currently Learning
+
+Cloud Computing: Enhancing my skills in cloud computing to leverage its potential in data management and analysis
+
+## 👯 Collaboration
+
+I am open to collaborating with other data professionals to further hone my skills and contribute to exciting projects.
+
+## 📫 Contact Me
+
+Feel free to reach out to me at teminayoo@gmail.com
+
+
+
+
+
+
